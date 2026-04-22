@@ -1,3 +1,7 @@
+WARNING!!! pong weri fast
+
+
+
 🏓 PONG.EXE — retro chaos w czystej postaci
 
 “Nie pytaj czym jest Pong. Zapytaj, czy jesteś gotów przegrać.”
